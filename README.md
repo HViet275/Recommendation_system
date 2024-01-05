@@ -75,7 +75,7 @@ This is a collaborative filtering based books recommender system & a streamlit w
 Clone the repository
 
 ```bash
-https://github.com/entbappy/ML-Based-Book-Recommender-System.git
+https://github.com/HViet275/Recommendation_system
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
